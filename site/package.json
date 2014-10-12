@@ -1,0 +1,12 @@
+{
+  "name": "learning",
+  "description": "learning purpose",
+  "version": "0.0.1",
+  "private": true,
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.9.7",
+    "express-handlebars": "^1.1.0",
+    "express3-handlebars": "^0.5.2"
+  }
+}
